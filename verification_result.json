@@ -1,0 +1,49 @@
+{
+  "student_name": "Marco_Iandolino",
+  "timestamp": "2025-11-11T23:03:23.439839",
+  "python_version": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+  "platform": "Linux-6.5.0-45-generic-x86_64-with-glibc2.35",
+  "packages": {
+    "NumPy": {
+      "installed": true,
+      "version": "2.3.4",
+      "error": null
+    },
+    "Pandas": {
+      "installed": true,
+      "version": "2.3.3",
+      "error": null
+    },
+    "Matplotlib": {
+      "installed": true,
+      "version": "3.10.7",
+      "error": null
+    },
+    "Seaborn": {
+      "installed": true,
+      "version": "0.13.2",
+      "error": null
+    },
+    "SciPy": {
+      "installed": true,
+      "version": "1.16.3",
+      "error": null
+    },
+    "scikit-learn": {
+      "installed": true,
+      "version": "1.7.2",
+      "error": null
+    },
+    "Biopython": {
+      "installed": true,
+      "version": "1.86",
+      "error": null
+    },
+    "PyRosetta": {
+      "installed": true,
+      "version": "unknown",
+      "error": null
+    }
+  },
+  "verification_passed": true
+}
