@@ -1,0 +1,30 @@
+======================================================================
+RosettaML Bootcamp 2025 - HW2 Verification Results
+======================================================================
+
+Student Name: REPLACE_WITH_YOUR_NAME
+Timestamp: 2025-11-13T18:48:34.113884
+Python Version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:28:27) [Clang 14.0.6 ]
+Platform: macOS-10.16-x86_64-i386-64bit
+
+Installation Checks:
+----------------------------------------------------------------------
+
+PYMOL:
+  Installed: True
+  Version: PyMOL 3.1.1 Incentive Product (c79088a4ca), 2024-11-12
+
+VSCODE:
+  Installed: True
+  Version: 1.96.2
+fabdb6a30b49f79a7aba0f2ad9df9b399473380f
+x64
+
+File Checks:
+----------------------------------------------------------------------
+  1ubq_session.pse: Present
+  1ubq_visualization.png: Present
+
+======================================================================
+STATUS: ALL CHECKS PASSED ✓
+======================================================================
