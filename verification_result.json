@@ -1,8 +1,8 @@
 {
   "student_name": "Marco_Iandolino",
-  "timestamp": "2025-11-11T23:03:23.439839",
-  "python_version": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
-  "platform": "Linux-6.5.0-45-generic-x86_64-with-glibc2.35",
+  "timestamp": "2025-11-13T18:17:11.773324",
+  "python_version": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:53:07) [Clang 19.1.7 ]",
+  "platform": "macOS-15.5-x86_64-i386-64bit",
   "packages": {
     "NumPy": {
       "installed": true,
@@ -16,7 +16,7 @@
     },
     "Matplotlib": {
       "installed": true,
-      "version": "3.10.7",
+      "version": "3.10.8",
       "error": null
     },
     "Seaborn": {
