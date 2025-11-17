@@ -1,0 +1,35 @@
+Protein Sequence Analysis Results
+======================================================================
+
+Sequence: hemoglobin_alpha_human
+  Length: 142 aa
+  Molecular Weight: 15258.11 Da
+  Hydrophobic residues: 70
+  Positive charges: 24
+  Negative charges: 12
+  Net charge: 12
+
+Sequence: >insulin_human
+  Length: 110 aa
+  Molecular Weight: 11981.34 Da
+  Hydrophobic residues: 51
+  Positive charges: 9
+  Negative charges: 10
+  Net charge: -1
+
+Sequence: >lysozyme_human
+  Length: 147 aa
+  Molecular Weight: 16239.20 Da
+  Hydrophobic residues: 59
+  Positive charges: 19
+  Negative charges: 9
+  Net charge: 10
+
+Sequence: >ubiquitin
+  Length: 76 aa
+  Molecular Weight: 8565.16 Da
+  Hydrophobic residues: 28
+  Positive charges: 12
+  Negative charges: 11
+  Net charge: 1
+
